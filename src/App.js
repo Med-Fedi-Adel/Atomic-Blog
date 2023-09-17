@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState, memo } from "react";
+import { useEffect, useState, memo } from "react";
 import { faker } from "@faker-js/faker";
 import { PostProvider, usePosts } from "./PostContext";
 import Test from "./Test";
